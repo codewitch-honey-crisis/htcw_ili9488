@@ -1,6 +1,6 @@
-# ILI9341
+# ILI9488
 
-A GFX enabled device driver for the ILI9341
+A GFX enabled device driver for the ILI9488
 
 This library allows GFX to bind to an ILI9341 display so that you can use it as a draw target.
 
@@ -14,7 +14,7 @@ platform = espressif32
 board = node32s
 framework = arduino
 lib_deps = 
-	codewitch-honey-crisis/htcw_ili9341@^1.1.7
+	codewitch-honey-crisis/htcw_ili9488@^0.9.0
 lib_ldf_mode = deep
 build_unflags=-std=gnu++11
 build_flags=-std=gnu++14
