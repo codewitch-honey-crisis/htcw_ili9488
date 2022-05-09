@@ -1,6 +1,6 @@
 {
     "name": "htcw_ili9488",
-    "version": "0.9.0",
+    "version": "0.9.1",
     "description": "Provides support for the ILI9488 display device w/ GFX",
     "keywords": ["tft","ili9488","graphics","drawing"],
     "authors": {
